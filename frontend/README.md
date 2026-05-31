@@ -3,7 +3,7 @@
 A full-stack Task Manager application built with React, Spring Boot, and MongoDB.
 
 ## 🚀 Live Demo
-- **Frontend:** (Add Vercel link here)
+- **Frontend:** https://taskmanager-app-git-main-gautham4.vercel.app
 - **Backend:** https://taskmanager-backend-kkxe.onrender.com
 
 ## 🛠 Tech Stack
